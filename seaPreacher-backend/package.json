@@ -1,0 +1,19 @@
+{
+  "name": "seapreacher-backend",
+  "version": "1.0.0",
+  "description": "backend to seaPreacher react js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Findlay",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "qrcode": "^1.4.4",
+    "socket-io": "^1.0.0",
+    "socket.io": "^2.3.0",
+    "speakeasy": "^2.0.0"
+  }
+}
